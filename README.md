@@ -5,7 +5,7 @@
 
 ##### 效果：
 
-![截屏2021-01-16 00.51.35](/Users/mr.zhang/Desktop/万年历/canlendar/demo.png)
+![截屏2021-01-16 00.51.35](https://raw.githubusercontent.com/zhanglong2333/canlendar/main/demo.png)
 
 
 
@@ -21,4 +21,4 @@
 
 
 
-![截屏2021-01-16 00.59.22](/Users/mr.zhang/Desktop/万年历/canlendar/data.png)
+![截屏2021-01-16 00.59.22](https://raw.githubusercontent.com/zhanglong2333/canlendar/main/data.png)
